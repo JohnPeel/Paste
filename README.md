@@ -35,7 +35,7 @@ $ npm --version
 ## Install
 
 ```bash
-$ git clone --recurse-submodules https://github.com/JohnPeel/Paste.git
+$ git clone --recurse-submodules https://github.com/JohnPeel/paste.dgby.org.git
 $ cd Paste
 ```
 
